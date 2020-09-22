@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xy0zLedzu46xDJLqmExeYmxWIyYBDs2H57jPR2R7QtBMTf1xClKtiw2IIouMHEm4Dhnj/TQopDouw9TI08JbdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tamag\\Downloads\\MailOrderPharmacy_DrugService\\MailOrderPharmacy_DrugService\\MailOrderPharmacy_DrugService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tamag\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
